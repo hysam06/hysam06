@@ -65,23 +65,6 @@ const sayedHysam = {
 
 </div>
 
----
-
-<div align="center"><img src="https://img.shields.io/badge/GITHUB%20STATS-118AB2?style=for-the-badge" /></div>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hysam06&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hysam06&layout=compact&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hysam06&theme=radical&hide_border=true" />
-
-</div>
-
----
-
 <div align="center"><img src="https://img.shields.io/badge/INTERESTS-EF476F?style=for-the-badge" /></div>
 
 <div align="center">
