@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1200&color=001A4D&center=true&vCenter=true&width=450&height=30&lines=Hi%2C+I'm+SAYED+HYSAM;Co-F[...]
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1200&color=001A4D&center=true&vCenter=true&width=450&height=30&lines=Hi%2C+I'm+SAYED+HYSAM;Co-Founder+of+StarShape.in" />
 
 <img src="https://komarev.com/ghpvc/?username=hysam06&label=PROFILE+VIEWS&color=FF6B6B&style=for-the-badge" alt="Profile views" />
 
@@ -10,9 +10,16 @@
 
 <div align="center"><img src="https://img.shields.io/badge/ABOUT-6C63FF?style=for-the-badge" /></div>
 
-Final year B.Tech Computer Science student at Garden City University, Bangalore, and Co-Founder of **StarShape.in**. I build AI products, scalable software, and digital experiences that solve real[...]
+Final year B.Tech Computer Science student at Garden City University, Bangalore, and Co-Founder of **StarShape.in**. I build AI products, scalable software, and digital experiences that solve real-world problems.
 
-
+```txt
+const sayedHysam = {
+  role: "Co-Founder @ StarShape.in",
+  focus: ["AI Products", "Full Stack Development", "System Architecture"],
+  currentlyBuilding: ["NUDGE", "MESIRI", "MERCON"],
+  philosophy: "Building products that solve real problems, one commit at a time."
+};
+```
 
 ---
 
@@ -73,6 +80,6 @@ Final year B.Tech Computer Science student at Garden City University, Bangalore,
 
 <br/><br/>
 
-<a href="https://apps.apple.com/in/app/nudge-focus-timer-blocker/id6754453124"><img src="https://img.shields.io/badge/Nudge-Download%20on%20App%20Store-000000?style=for-the-badge&logo=appstore&log[...]
+<a href="https://apps.apple.com/in/app/nudge-focus-timer-blocker/id6754453124"><img src="https://img.shields.io/badge/Nudge-Download%20on%20App%20Store-000000?style=for-the-badge&logo=appstore&logoColor=white" /></a>
 
 </div>
