@@ -1,4 +1,4 @@
-# Hi, I'm SAYED HYSAM
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hi,+I'm+SAYED+HYSAM;Co-Founder+%40+StarShape.in" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=hysam06&label=PROFILE+VIEWS&color=FF6B6B&style=for-the-badge" alt="Profile views" />
 
@@ -6,7 +6,7 @@
 
 ## ABOUT
 
-Final year B.Tech Computer Science student at Garden City University, Bangalore, and Co-Founder of **StarShape.in**. I build AI products, scalable software, and digital experiences that solve real problems.
+Final year B.Tech Computer Science student at Garden City University, Bangalore, and **Co-Founder of StarShape.in**. I build AI products, scalable software, and digital experiences that solve real problems.
 
 ```javascript
 const sayedHysam = {
@@ -58,4 +58,4 @@ const sayedHysam = {
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074080020014)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayedhysampm@gmail.com)
 
-[![Nudge - Download on App Store](https://img.shields.io/badge/Nudge-Download%20on%20App%20Store-000000?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/in/app/nudge-focus-timer-blocker/id6754453124)
+[![Nudge - Download on App Store](https://img.shields.io/badge/Nudge-Download%20on%20App%20Store-000000?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/in/app/nudge-focus-timer/id6478256397)
