@@ -4,11 +4,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sayed+Hysam+%F0%9F%91%8B;Final+Year+CS+Student+%40+Garden+City+University;Co-Founder+%40+StarShape.in;Building+AI+products+that+solve+real+problems" alt="Typing SVG" />
 
 <!-- Optional: swap the line below for a live visitor/profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=sayedhysam&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=hysam06&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views" />
 
 </div>
 
-### About Me
+### 🚀 About Me
 
 Final year B.Tech Computer Science student at Garden City University, Bangalore, and Co-Founder of **StarShape.in**. I build AI products, scalable software, and digital experiences that solve real-world problems.
 
@@ -23,26 +23,26 @@ const sayedHysam = {
 
 ---
 
-###  What I'm Building
+### 🧩 What I'm Building
 
 **Products**
 
 | Project | Description |
 |---|---|
-| **NUDGE** | focus, productivity, and digital wellbeing platform |
-| **MESIRI** | AI business assistant that simplifies operations and decision-making |
-| **MERCON** | Construction management platform connecting contractors, suppliers, and project stakeholders |
+| 🧠 **NUDGE** | AI-powered focus, productivity, and digital wellbeing platform |
+| 🤖 **MESIRI** | AI business assistant that simplifies operations and decision-making |
+| 🏗️ **MERCON** | Construction management platform connecting contractors, suppliers, and project stakeholders |
 
 **Digital Solutions**
 
 | Project | Description |
 |---|---|
-| **Symbol Business Setup** | Business formation and corporate services platform |
-| **GetTourism** | Smart tourism and travel management platform |
+| 🏢 **Symbol Business Setup** | Business formation and corporate services platform |
+| ✈️ **GetTourism** | Smart tourism and travel management platform |
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -70,31 +70,31 @@ const sayedHysam = {
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sayedhysam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedhysam&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hysam06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hysam06&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedhysam&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hysam06&theme=tokyonight&hide_border=true" />
 
 <!-- Animated contribution snake — requires a one-time GitHub Actions setup, see notes below -->
-<img src="https://raw.githubusercontent.com/sayedhysam/sayedhysam/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+<img src="https://raw.githubusercontent.com/hysam06/hysam06/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
 
 </div>
 
 ---
 
-### Interests
+### 🌱 Interests
 
 Artificial Intelligence &nbsp;•&nbsp; Full Stack Development &nbsp;•&nbsp; Product Design &nbsp;•&nbsp; SaaS Platforms &nbsp;•&nbsp; Mobile App Development &nbsp;•&nbsp; System Architecture &nbsp;•&nbsp; UI/UX Design &nbsp;•&nbsp; Startup Building
 
 ---
 
-### Connect With Me
+### 📫 Connect With Me
 
 <div align="center">
 
