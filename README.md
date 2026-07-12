@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1200&color=FF6B6B&center=true&vCenter=true&width=450&height=30&lines=Hi%2C+I'm+Sayed+Hysam;Something+About+Me;Co-Founder+%40+StarShape.in" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1200&color=#0F172A&center=true&vCenter=true&width=450&height=30&lines=Hi%2C+I'm+SAYED+HYSAM;Co-Founder+%40+StarShape.in" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=hysam06&label=PROFILE+VIEWS&color=FF6B6B&style=for-the-badge" alt="Profile views" />
 
