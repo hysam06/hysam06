@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=500&color=001f3f&center=true&vCenter=true&width=500&lines=**HI,+I'M+SAYED+HYSAM**;**CO-FOUNDER+%40+STARSHAPE.IN**" alt="typing animation" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=500&color=001f3f&center=true&vCenter=true&width=500&lines=HI,+I'M+SAYED+HYSAM;CO-FOUNDER+%40+STARSHAPE.IN" alt="typing animation" />
 
 <img src="https://komarev.com/ghpvc/?username=hysam06&label=PROFILE+VIEWS&color=FF6B6B&style=for-the-badge" alt="Profile views" />
 
