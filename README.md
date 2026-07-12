@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=500&color=001f3f&center=true&vCenter=true&width=500&lines=HI,+I'M+SAYED+HYSAM;CO-FOUNDER+%40+STARSHAPE.IN" alt="typing animation" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=500&color=2563EB&center=true&vCenter=true&width=500&lines=HI,+I'M+SAYED+HYSAM;CO-FOUNDER+%40+STARSHAPE.IN;BUILDING+AI+PRODUCTS" alt="Typing animation" />
 
 <img src="https://komarev.com/ghpvc/?username=hysam06&label=PROFILE+VIEWS&color=FF6B6B&style=for-the-badge" alt="Profile views" />
 
@@ -70,4 +70,4 @@ Final year B.Tech Computer Science student at Garden City University, Bangalore,
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074080020014)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayedhysampm@gmail.com)
 
-[![Nudge - Download on App Store](https://img.shields.io/badge/Nudge-Download%20on%20App%20Store-000000?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/in/app/nudge-focus-timer)
+[![Nudge - Download on App Store](https://img.shields.io/badge/Nudge-Download%20on%20App%20Store-000000?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/in/app/nudge-focus-ti/)
