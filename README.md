@@ -1,14 +1,23 @@
 <div align="center">
 
-<!-- Animated typing intro — powered by https://readme-typing-svg.demolab.com -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sayed+Hysam+%F0%9F%91%8B;Final+Year+CS+Student+%40+Garden+City+University;Co-Founder+%40+StarShape.in;Building+AI+products+that+solve+real+problems" alt="Typing SVG" />
+```
+ ____   ___   _  _______ ____    _   ___   ______   __  __
+/ ___| / _ \ | |/ / ____|  _ \  | | | \ \ / / ___|  / \|  \/  |
+\___ \| | | || ' /|  _| | | | | | |_| |\ V /\___ \ / _ \ |\/| |
+ ___) | |_| || . \| |___| |_| | |  _  | | |  ___) / ___ \ |  | |
+|____/ \___/ |_|\_\_____|____/  |_| |_| |_| |____/_/   \_\_|  |_|
+```
 
-<!-- Optional: swap the line below for a live visitor/profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=sayedhysam&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views" />
+<!-- Animated typing intro — powered by https://readme-typing-svg.demolab.com -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Final+Year+CS+Student+%40+Garden+City+University;Co-Founder+%40+StarShape.in;Building+AI+products+that+solve+real+problems" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=sayedhysam&label=PROFILE+VIEWS&color=6C63FF&style=flat" alt="Profile views" />
 
 </div>
 
-### 🚀 About Me
+---
+
+### ABOUT
 
 Final year B.Tech Computer Science student at Garden City University, Bangalore, and Co-Founder of **StarShape.in**. I build AI products, scalable software, and digital experiences that solve real-world problems.
 
@@ -23,26 +32,26 @@ const sayedHysam = {
 
 ---
 
-### 🧩 What I'm Building
+### WHAT I'M BUILDING
 
 **Products**
 
 | Project | Description |
 |---|---|
-| 🧠 **NUDGE** | AI-powered focus, productivity, and digital wellbeing platform |
-| 🤖 **MESIRI** | AI business assistant that simplifies operations and decision-making |
-| 🏗️ **MERCON** | Construction management platform connecting contractors, suppliers, and project stakeholders |
+| **NUDGE** | AI-powered focus, productivity, and digital wellbeing platform |
+| **MESIRI** | AI business assistant that simplifies operations and decision-making |
+| **MERCON** | Construction management platform connecting contractors, suppliers, and project stakeholders |
 
 **Digital Solutions**
 
 | Project | Description |
 |---|---|
-| 🏢 **Symbol Business Setup** | Business formation and corporate services platform |
-| ✈️ **GetTourism** | Smart tourism and travel management platform |
+| **Symbol Business Setup** | Business formation and corporate services platform |
+| **GetTourism** | Smart tourism and travel management platform |
 
 ---
 
-### 🛠️ Tech Stack
+### TECH STACK
 
 <div align="center">
 
@@ -70,7 +79,7 @@ const sayedHysam = {
 
 ---
 
-### 📊 GitHub Stats
+### GITHUB STATS
 
 <div align="center">
 
@@ -88,13 +97,13 @@ const sayedHysam = {
 
 ---
 
-### 🌱 Interests
+### INTERESTS
 
-Artificial Intelligence &nbsp;•&nbsp; Full Stack Development &nbsp;•&nbsp; Product Design &nbsp;•&nbsp; SaaS Platforms &nbsp;•&nbsp; Mobile App Development &nbsp;•&nbsp; System Architecture &nbsp;•&nbsp; UI/UX Design &nbsp;•&nbsp; Startup Building
+`Artificial Intelligence`  `Full Stack Development`  `Product Design`  `SaaS Platforms`  `Mobile App Development`  `System Architecture`  `UI/UX Design`  `Startup Building`
 
 ---
 
-### 📫 Connect With Me
+### CONNECT
 
 <div align="center">
 
