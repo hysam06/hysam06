@@ -12,14 +12,7 @@
 
 Final year B.Tech Computer Science student at Garden City University, Bangalore, and Co-Founder of **StarShape.in**. I build AI products, scalable software, and digital experiences that solve real[...]
 
-```txt
-const sayedHysam = {
-  role: "Co-Founder @ StarShape.in",
-  focus: ["AI Products", "Full Stack Development", "System Architecture"],
-  currentlyBuilding: ["NUDGE", "MESIRI", "MERCON"],
-  philosophy: "Building products that solve real problems, one commit at a time."
-};
-```
+
 
 ---
 
