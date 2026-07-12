@@ -1,13 +1,16 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1200&color=FF6B6B&center=true&vCenter=true&width=450&height=30&lines=Hi%2C+I'm+Sayed+Hysam;Co-Founder+%40+StarShape.in" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1200&color=FF6B6B&center=true&vCenter=true&width=450&height=30&lines=Hi%2C+I'm+Sayed+Hysam;Something+About+Me;Co-Founder+%40+StarShape.in" alt="Typing SVG" />
+
 <img src="https://komarev.com/ghpvc/?username=hysam06&label=PROFILE+VIEWS&color=FF6B6B&style=for-the-badge" alt="Profile views" />
+
 </div>
 
 ---
 
 <div align="center"><img src="https://img.shields.io/badge/ABOUT-6C63FF?style=for-the-badge" /></div>
 
-Final year B.Tech Computer Science student at Garden City University, Bangalore, and Co-Founder of **StarShape.in**. I build AI products, scalable software, and digital experiences that solve real-wor[...] 
+Final year B.Tech Computer Science student at Garden City University, Bangalore, and Co-Founder of **StarShape.in**. I build AI products, scalable software, and digital experiences that solve real-world problems.
 
 ```txt
 const sayedHysam = {
@@ -24,18 +27,17 @@ const sayedHysam = {
 
 **Products**
 
-| Project | Description |
-|---|---|
-| **NUDGE** | AI-powered focus, productivity, and digital wellbeing platform |
-| **MESIRI** | AI business assistant that simplifies operations and decision-making |
-| **MERCON** | Construction management platform connecting contractors, suppliers, and project stakeholders |
+**NUDGE** — AI-powered focus, productivity, and digital wellbeing platform, live on the App Store.
+
+**MESIRI** — AI business assistant designed to simplify operations and decision-making for founders and teams.
+
+**MERCON** — Construction management platform connecting contractors, suppliers, and project stakeholders through one digital ecosystem.
 
 **Digital Solutions**
 
-| Project | Description |
-|---|---|
-| **Symbol Business Setup** | Business formation and corporate services platform |
-| **GetTourism** | Smart tourism and travel management platform |
+**Symbol Business Setup** — Business formation and corporate services platform.
+
+**GetTourism** — Smart tourism and travel management platform.
 
 ---
 
@@ -65,22 +67,7 @@ const sayedHysam = {
 
 </div>
 
-<div align="center"><img src="https://img.shields.io/badge/INTERESTS-EF476F?style=for-the-badge" /></div>
 
-<div align="center">
-
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-8338EC?style=flat-square&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full%20Stack%20Dev-3A86FF?style=flat-square&logoColor=white)
-![Product](https://img.shields.io/badge/Product%20Design-FB5607?style=flat-square&logoColor=white)
-![SaaS](https://img.shields.io/badge/SaaS%20Platforms-FF006E?style=flat-square&logoColor=white)
-![Mobile](https://img.shields.io/badge/Mobile%20Apps-06D6A0?style=flat-square&logoColor=white)
-![Arch](https://img.shields.io/badge/System%20Architecture-FFBE0B?style=flat-square&logoColor=white)
-![UIUX](https://img.shields.io/badge/UI%2FUX%20Design-EF476F?style=flat-square&logoColor=white)
-![Startup](https://img.shields.io/badge/Startup%20Building-118AB2?style=flat-square&logoColor=white)
-
-</div>
-
----
 
 <div align="center"><img src="https://img.shields.io/badge/CONNECT-06D6A0?style=for-the-badge" /></div>
 
@@ -93,6 +80,6 @@ const sayedHysam = {
 
 <br/><br/>
 
-<a href="https://apps.apple.com/in/app/nudge-focus-timer-blocker/id6754453124"><img src="https://img.shields.io/badge/Nudge-Download%20on%20App%20Store-000000?style=for-the-badge&logo=appstore&lo[...]
+<a href="https://apps.apple.com/in/app/nudge-focus-timer-blocker/id6754453124"><img src="https://img.shields.io/badge/Nudge-Download%20on%20App%20Store-000000?style=for-the-badge&logo=appstore&logoColor=white" /></a>
 
 </div>
